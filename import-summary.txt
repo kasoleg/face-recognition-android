@@ -7,7 +7,6 @@ The following files were *not* copied into the new Gradle project; you
 should evaluate whether these are still needed in your project and if
 so manually move them:
 
-* java.iml
 * javadoc\
 * javadoc\allclasses-frame.html
 * javadoc\allclasses-noframe.html
@@ -97,7 +96,6 @@ so manually move them:
 * javadoc\org\opencv\imgproc\CLAHE.html
 * javadoc\org\opencv\imgproc\Imgproc.html
 * javadoc\org\opencv\imgproc\LineSegmentDetector.html
-* javadoc\org\opencv\imgproc\Moments.html
 * javadoc\org\opencv\imgproc\Subdiv2D.html
 * javadoc\org\opencv\imgproc\package-frame.html
 * javadoc\org\opencv\imgproc\package-summary.html
@@ -163,7 +161,6 @@ so manually move them:
 * javadoc\org\opencv\video\package-tree.html
 * javadoc\org\opencv\videoio\
 * javadoc\org\opencv\videoio\VideoCapture.html
-* javadoc\org\opencv\videoio\VideoWriter.html
 * javadoc\org\opencv\videoio\Videoio.html
 * javadoc\org\opencv\videoio\package-frame.html
 * javadoc\org\opencv\videoio\package-summary.html
@@ -172,7 +169,8 @@ so manually move them:
 * javadoc\overview-summary.html
 * javadoc\overview-tree.html
 * javadoc\package-list
-* javadoc\script.js
+* javadoc\resources\
+* javadoc\resources\inherit.gif
 * javadoc\serialized-form.html
 * javadoc\stylesheet.css
 
